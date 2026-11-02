@@ -1,0 +1,11 @@
+neighborhood,school_rating,crime_rate_per_1000,distance_to_center_km,public_transport_score,metro_access
+Koregaon Park,8.8,4.1,3.5,9.0,Yes
+Kothrud,8.4,3.2,6.0,8.2,Yes
+Baner,8.1,3.0,10.0,7.1,No
+Aundh,8.3,2.9,8.5,7.6,No
+Viman Nagar,8.0,3.8,8.0,7.4,No
+Kharadi,7.7,3.4,11.5,6.8,No
+Wakad,7.4,3.6,17.0,6.2,Yes
+Hinjewadi,7.2,4.4,21.0,5.8,No
+Hadapsar,7.0,4.7,10.5,7.0,No
+Pimple Saurabh,7.3,3.1,18.0,6.0,Yes

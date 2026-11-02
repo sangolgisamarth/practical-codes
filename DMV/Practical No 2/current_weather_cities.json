@@ -1,0 +1,147 @@
+{
+  "Pune": {
+    "coord": {
+      "lon": 73.8554,
+      "lat": 18.5196
+    },
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "clear sky",
+        "icon": "01d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 29.4,
+      "feels_like": 30.599999999999998,
+      "temp_min": 28.4,
+      "temp_max": 30.4,
+      "pressure": 1010,
+      "humidity": 71
+    },
+    "wind": {
+      "speed": 3.88,
+      "deg": 179
+    },
+    "name": "Pune",
+    "cod": 200
+  },
+  "Mumbai": {
+    "coord": {
+      "lon": 72.8479,
+      "lat": 19.0144
+    },
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "clear sky",
+        "icon": "01d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 31.2,
+      "feels_like": 32.4,
+      "temp_min": 30.2,
+      "temp_max": 32.2,
+      "pressure": 1010,
+      "humidity": 48
+    },
+    "wind": {
+      "speed": 3.35,
+      "deg": 50
+    },
+    "name": "Mumbai",
+    "cod": 200
+  },
+  "Delhi": {
+    "coord": {
+      "lon": 77.2167,
+      "lat": 28.6667
+    },
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "clear sky",
+        "icon": "01d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 26.8,
+      "feels_like": 28.0,
+      "temp_min": 25.8,
+      "temp_max": 27.8,
+      "pressure": 1010,
+      "humidity": 58
+    },
+    "wind": {
+      "speed": 2.42,
+      "deg": 170
+    },
+    "name": "Delhi",
+    "cod": 200
+  },
+  "Chennai": {
+    "coord": {
+      "lon": 80.2785,
+      "lat": 13.0878
+    },
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "clear sky",
+        "icon": "01d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 30.1,
+      "feels_like": 31.3,
+      "temp_min": 29.1,
+      "temp_max": 31.1,
+      "pressure": 1010,
+      "humidity": 65
+    },
+    "wind": {
+      "speed": 1.39,
+      "deg": 317
+    },
+    "name": "Chennai",
+    "cod": 200
+  },
+  "Kolkata": {
+    "coord": {
+      "lon": 88.3697,
+      "lat": 22.5697
+    },
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "clear sky",
+        "icon": "01d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 28.7,
+      "feels_like": 29.9,
+      "temp_min": 27.7,
+      "temp_max": 29.7,
+      "pressure": 1010,
+      "humidity": 65
+    },
+    "wind": {
+      "speed": 1.75,
+      "deg": 185
+    },
+    "name": "Kolkata",
+    "cod": 200
+  }
+}
